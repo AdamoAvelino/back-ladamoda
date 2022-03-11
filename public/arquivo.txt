@@ -1,0 +1,5 @@
+Alguma coisa escrita aqui
+Caso abra o arquivo a leitura deve ser legal
+Qualquer coisa que aconteça, tem que avaliar
+Eu quero linhas impressas na tela
+que não tenha palavra COISA
